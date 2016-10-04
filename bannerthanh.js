@@ -110,8 +110,8 @@ thanh2=jQuery.noConflict();
 })(jQuery);
         
 thanh2(window).load(function() {
-		if(document.cookie.indexOf("adf") == -1)
-		{
+		//if(document.cookie.indexOf("adf") == -1)
+		//{
 			document.cookie = "adfpopunder1=adf";
 			var divpopup = document.createElement("div");
 			thanh2(divpopup).attr('id', 'myModal');
@@ -119,5 +119,5 @@ thanh2(window).load(function() {
 			thanh2( "body" ).append(divpopup);
 			thanh2("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			thanh2('#myModal').linhnguyen(thanh2('#myModal').data());
-		}
+		//}
 }); 
