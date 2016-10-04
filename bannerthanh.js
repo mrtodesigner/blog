@@ -1,5 +1,3 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
 thanh2=jQuery.noConflict();
 (function(thanh2) {
     thanh2.fn.linhnguyen = function(options) {        
@@ -117,7 +115,7 @@ thanh2(window).load(function() {
 			thanh2(divpopup).attr('id', 'myModal');
 			thanh2(divpopup).attr('class', 'linhnguyen-modal');
 			thanh2( "body" ).append(divpopup);
-			thanh2("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			thanh2("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/></a>");
 			thanh2('#myModal').linhnguyen(thanh2('#myModal').data());
 		//}
 }); 
