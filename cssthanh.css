@@ -1951,6 +1951,7 @@ color:#A52A2A;
 		font-weight: bold;
 		cursor: pointer;
 		} 
+.linhnguyen-modal img{max-width:480px; max-height:360px; width:480px; height:360px;}
 	.big-link { display:block; margin-top: 100px; text-align: center; font-size: 70px; color: #06f; }
 	#menu-primary{
 		z-index:100 !important;
