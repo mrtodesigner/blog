@@ -107,7 +107,7 @@ h2.date-header {
 	display:inline;
 	position:relative;
 	font:bold 12px Arial, Helvetica, Tahoma, sans-serif;
-	text-transform:uppercase;
+	text-transform:uppercase;margin-right: 2px;
 }
 #menu a {
 	color:#000;
