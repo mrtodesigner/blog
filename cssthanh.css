@@ -1921,22 +1921,18 @@ color:#A52A2A;
 		left: 0; 
 		}	
 	.linhnguyen-modal {
-		visibility: hidden;
-		text-align:center;
-		top: 100px; 
-		left: 50%;
-		margin-left: -300px;
-		width: 520px;
-		background: #eee url(modal-gloss.png) no-repeat -200px -80px;
-		position: absolute;
-		z-index: 1001;
-		padding: 30px 40px 34px;
-		-moz-border-radius: 5px;
-		-webkit-border-radius: 5px;
-		border-radius: 5px;
-		-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
-		-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
-		-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		background: #9fca20 none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px #bbb;
+    left: 50%;
+    margin-left: -300px;
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    top: 100px;
+    visibility: hidden;
+    width: 480px;
+    z-index: 1001;
 		}
 		
 	.linhnguyen-modal.small 		{ width: 200px; margin-left: -140px;}
