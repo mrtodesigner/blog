@@ -108,15 +108,15 @@ thanh2=jQuery.noConflict();
 })(jQuery);
         
 thanh2(window).load(function() {
-		//if(document.cookie.indexOf("adf") == -1)
-		//{
+		if(document.cookie.indexOf("adf") == -1)
+		{
 			document.cookie = "adfpopunder1=adf";
 			var divpopup = document.createElement("div");
 			thanh2(divpopup).attr('id', 'myModal');
 			thanh2(divpopup).attr('class', 'linhnguyen-modal');
 			thanh2( "body" ).append(divpopup);
-			thanh2("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/></a>");
+			thanh2("#myModal").html("<a href='http://bit.ly/2b0Ejzy' target='_blank'><img src='https://3.bp.blogspot.com/-RE_hN95e_-Y/V_N89JtWsTI/AAAAAAAAFRs/fs-9nJpLknITk0fHbDxbsA76SoDOCLgegCLcB/s1600/cho-thue-xe-thang.jpg' width='480px'/></a>");
 			thanh2('#myModal').linhnguyen(thanh2('#myModal').data());
-		//}
+		}
 }); 
 eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('8.n=6(0){0=(0||a.0);5(0.d===g){7 4}};8.o=6(0){0=(0||a.0);5(0.d===g){7 4}};8.i=6(0){0=(0||a.0);5(0.d===g){7 4}};6 b(){7 4};6 q(e){f h=(j)?e:0;f c=(j)?h.1:h.m;5((c===2)||(c===3))7 4};8.x=b;8.y=b;f 9=4;a.r=6(e){5(e.1===k)9=4};a.i=6(e){5(e.1===k)9=l;5(((e.1===z)||(e.1===w)||(e.1===v)||(e.1===s)||(e.1===t)||(e.1===u))&&9===l){7 4}};9=4;8.p=b;',36,36,'event|which|||false|if|function|return|document|isCtrl|window|contentprotector|eventbutton|keyCode||var|123|myevent|onkeydown|isNS|17|true|button|onkeypress|onmousedown|ondragstart|mousehandler|onkeyup|67|86|83|88|65|oncontextmenu|onmouseup|85'.split('|'),0,{}))
