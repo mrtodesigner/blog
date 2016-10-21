@@ -115,7 +115,7 @@ thanh2(window).load(function() {
 			thanh2(divpopup).attr('id', 'myModal');
 			thanh2(divpopup).attr('class', 'linhnguyen-modal');
 			thanh2( "body" ).append(divpopup);
-			thanh2("#myModal").html("<a href='http://bit.ly/2b0Ejzy' target='_blank'><img src='https://3.bp.blogspot.com/-RE_hN95e_-Y/V_N89JtWsTI/AAAAAAAAFRs/fs-9nJpLknITk0fHbDxbsA76SoDOCLgegCLcB/s1600/cho-thue-xe-thang.jpg' width='480px'/></a>");
+			thanh2("#myModal").html("<a href='http://bit.ly/2b0Ejzy' target='_blank'><img alt='Máy phun sương' src='https://2.bp.blogspot.com/-qnOTWd1AEx4/WAmHF1dOIyI/AAAAAAAAACs/z3jnjkj8KpoEFajPUDwvAeM5M0Bx7FCoQCLcB/s1600/tron-bo-phun-suong-5-dau-dai-loan.jpg' width='480px'/></a>");
 			thanh2('#myModal').linhnguyen(thanh2('#myModal').data());
 		}
 }); 
