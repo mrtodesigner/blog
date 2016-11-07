@@ -42,14 +42,11 @@ h2.date-header {
 	z-index:999;
 }
 #header {
-	max-width:500px;
-	float:left;
 	width:auto;
 	overflow:hidden;
 	z-index:999;
-	min-width:400px;
 	margin:0;
-	padding:0;
+	padding:0;text-align:center;
 }
 .addthis_bar.addthis_bar_vertical.addthis_bar_large {
 	width:60px;
