@@ -54,12 +54,12 @@ h2.date-header {
 	left:0px !important;
 }
 #header-inner {
-	margin-left:50px;
+	margin-left:0px;
 	padding:0
 }
 #header h1, #header p {
 	line-height:40px;
-	color:#eee;
+	color:#B02525;
 	padding-bottom:0px;
 	margin:0;
 	
