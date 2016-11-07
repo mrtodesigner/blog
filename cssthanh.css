@@ -63,9 +63,9 @@ h2.date-header {
 #header h1, #header p {
 	line-height:40px;
 	color:#eee;
-	padding-bottom:10px;
+	padding-bottom:0px;
 	margin:0;
-	text-indent:-9999px;
+	
 }
 #header h1 a, #header h1.title a:hover {
 	color:#f07468;
