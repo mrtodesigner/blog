@@ -1,4 +1,4 @@
-    var mangurl = ['http://bit.ly/2b0Ejzy','http://bit.ly/2bCSqJX','http://bit.ly/2doXRfE','http://bit.ly/2dpjcEO','http://bit.ly/2dnS3pg'];
+    var mangurl = ['http://www.mavachvietnam.com/9-giay-in-ma-vach.html','http://www.mavachvietnam.com/8-muc-in-ma-vach.html','http://xosokt.com/ket-qua-xo-so-mien-nam-kqxsmn-x-s-m-n-xsmn-xoso-mn.html','http://xosokt.com/ket-qua-xo-so-mien-trung-kqxsmt-x-s-m-t-xsmt-xoso-mt.html','http://xosokt.com/ket-qua-xo-so-mien-bac-kqxsmb-x-s-m-b-xsmb-xoso-mb.html'];
 
     var nr=Math.floor((Math.random() * 4) + 1);
 	var url_popup = mangurl[nr];
