@@ -1,8 +1,8 @@
-    var mangurl = ['http://www.mavachvietnam.com/9-giay-in-ma-vach.html','http://www.mavachvietnam.com/8-muc-in-ma-vach.html','http://xosokt.com/ket-qua-xo-so-mien-nam-kqxsmn-x-s-m-n-xsmn-xoso-mn.html','http://xosokt.com/ket-qua-xo-so-mien-trung-kqxsmt-x-s-m-t-xsmt-xoso-mt.html','http://xosokt.com/ket-qua-xo-so-mien-bac-kqxsmb-x-s-m-b-xsmb-xoso-mb.html'];
+    var mangurl = ['http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/','http://www.mavachvietnam.com/9-giay-in-ma-vach.html','http://www.mavachvietnam.com/8-muc-in-ma-vach.html','http://xosokt.com/ket-qua-xo-so-mien-nam-kqxsmn-x-s-m-n-xsmn-xoso-mn.html','http://xosokt.com/ket-qua-xo-so-mien-trung-kqxsmt-x-s-m-t-xsmt-xoso-mt.html','http://xosokt.com/ket-qua-xo-so-mien-bac-kqxsmb-x-s-m-b-xsmb-xoso-mb.html'];
 
-    var nr=Math.floor((Math.random() * 4) + 1);
+    var nr=Math.floor((Math.random() * 5) + 1);
 	var url_popup = mangurl[nr];
-
+var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/';
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
