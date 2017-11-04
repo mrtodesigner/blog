@@ -1,5 +1,5 @@
  //++++ Quang cao chay doc 2 ben
-
+/*
 function FloatTopDiv() 
 { 
 	startLX = ((document.body.clientWidth -MainContentW)/2) - (LeftBannerW+LeftAdjust) , startLY = TopAdjust; 
@@ -61,3 +61,4 @@ var clientWidth	=	window.screen.width;
                 ShowAdDiv();
                 window.onresize=ShowAdDiv; 
             }
+	    */
