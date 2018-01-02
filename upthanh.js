@@ -1,9 +1,9 @@
-   // var mangurl = ['http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/','http://www.mavachvietnam.com/9-giay-in-ma-vach.html','http://www.mavachvietnam.com/8-muc-in-ma-vach.html','http://xosokt.com/ket-qua-xo-so-mien-nam-kqxsmn-x-s-m-n-xsmn-xoso-mn.html','http://xosokt.com/ket-qua-xo-so-mien-trung-kqxsmt-x-s-m-t-xsmt-xoso-mt.html','http://xosokt.com/ket-qua-xo-so-mien-bac-kqxsmb-x-s-m-b-xsmb-xoso-mb.html'];
+   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-loc-ho-ca-koi-gia-re-uy-tin-chuyen-nghiep/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/']
 
-  //  var nr=Math.floor((Math.random() * 5) + 1);
-	//var url_popup = mangurl[nr];
+   var nr=Math.floor((Math.random() * 5) + 1);
+	var url_popup = mangurl[nr-1];
 //var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/';
-var url_popup='http://kentonnodequan7.com/';
+//var url_popup='http://kentonnodequan7.com/';
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
