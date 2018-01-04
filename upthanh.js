@@ -1,6 +1,6 @@
-   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-loc-ho-ca-koi-gia-re-uy-tin-chuyen-nghiep/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/']
+   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-loc-ho-ca-koi-gia-re-uy-tin-chuyen-nghiep/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/','http://phimbotrungquoc.com/']
 
-   var nr=Math.floor((Math.random() * 5) + 1);
+   var nr=Math.floor((Math.random() * 6) + 1);
 	var url_popup = mangurl[nr-1];
 //var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/';
 //var url_popup='http://kentonnodequan7.com/';
