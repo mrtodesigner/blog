@@ -1,6 +1,6 @@
-   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-loc-ho-ca-koi-gia-re-uy-tin-chuyen-nghiep/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/','http://phimbotrungquoc.com/']
+   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/','http://phimbotrungquoc.com/','http://sanhungthinhland.com/du-an-dat-nen-golden-bay-giai-doan-2-hung-thinh/','http://sanhungthinhland.com/dat-nen-khach-san-kinh-doanh-golden-bay-602/']
 
-   var nr=Math.floor((Math.random() * 6) + 1);
+   var nr=Math.floor((Math.random() * 8) + 1);
 	var url_popup = mangurl[nr-1];
 //var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/';
 //var url_popup='http://kentonnodequan7.com/';
