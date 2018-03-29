@@ -1,4 +1,4 @@
-   var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/loc-ho-ca-koi-gia-re-uy-tin/','http://koithienduong.com/cai-tao-ho-ca-koi-gia-re/','http://koithienduong.com/thi-cong-ho-ca-koi-dep-gia-re/','http://phimbotrungquoc.com/','http://sanhungthinhland.com/du-an-dat-nen-golden-bay-giai-doan-2-hung-thinh/','http://sanhungthinhland.com/dat-nen-khach-san-kinh-doanh-golden-bay-602/','http://duongthanhdtc.com/']
+    var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/loc-ho-ca-koi/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/thi-cong-ho-ca-koi/','http://sanhungthinhland.com/du-an-dat-nen-golden-bay-giai-doan-2-hung-thinh/','http://sanhungthinhland.com/dat-nen-khach-san-kinh-doanh-golden-bay-602/','http://duongthanhdtc.com/','http://gaboxoiunu.com']
 
    var nr=Math.floor((Math.random() * 9) + 1);
 	var url_popup = mangurl[nr-1];
