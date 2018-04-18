@@ -1,6 +1,6 @@
-    var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/loc-ho-ca-koi/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/thi-cong-ho-ca-koi/','http://sanhungthinhland.com/du-an-dat-nen-golden-bay-giai-doan-2-hung-thinh/','http://sanhungthinhland.com/dat-nen-khach-san-kinh-doanh-golden-bay-602/','http://duongthanhdtc.com/','http://gaboxoiunu.com']
+    var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/thi-cong-ho-ca-koi/','http://duongthanhdtc.com/','http://gaboxoiunu.com','http://sanhungthinhland.com/can-ho-q7-saigon-riverside-complex/']
 
-   var nr=Math.floor((Math.random() * 9) + 1);
+   var nr=Math.floor((Math.random() * 7) + 1);
 	var url_popup = mangurl[nr-1];
 //var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-son/';
 //var url_popup='http://kentonnodequan7.com/';
