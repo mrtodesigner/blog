@@ -1,4 +1,4 @@
-    var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/thi-cong-ho-ca-koi/','http://duongthanhdtc.com/','http://gaboxoiunu.com','http://sanhungthinhland.com/can-ho-q7-saigon-riverside-complex/']
+    var mangurl = ['http://kentonnodequan7.com','http://koithienduong.com/thiet-ke-ho-ca-koi-dep/','http://koithienduong.com/cai-tao-ho-ca-koi/','http://koithienduong.com/thi-cong-ho-ca-koi/','https://duongthanhdtc.com/','https://sanhungthinhland.com/can-ho-q7-saigon-riverside-complex/','https://sanhungthinhland.com/du-an-ba-ria-city-gate-ba-ria-vung-tau/']
 
    var nr=Math.floor((Math.random() * 7) + 1);
 	var url_popup = mangurl[nr-1];
