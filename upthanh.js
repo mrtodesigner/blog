@@ -7,6 +7,7 @@ var mangurl = ['https://duongthanhdtc.com/may-rang-ca-phe-chinh-hang-mars-roaste
 //var url_popup='http://kentonnodequan7.com/';
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+url_popup='http://truyenkiemhiepaz.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
