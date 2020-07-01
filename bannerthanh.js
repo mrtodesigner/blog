@@ -115,7 +115,7 @@ thanh2(window).load(function() {
 			thanh2(divpopup).attr('id', 'myModal');
 			thanh2(divpopup).attr('class', 'linhnguyen-modal');
 			thanh2( "body" ).append(divpopup);
-			thanh2("#myModal").html("<a href='https://aeondelight-vietnam.com.vn/vn/dich-vu/dich-vu-ve-sinh' target='_blank'><img src='https://aeondelight-vietnam.com.vn/wp-content/themes/aeon/images/services/img2.jpg' width='480px'/></a>");
+			thanh2("#myModal").html("<a href='https://ototaimientay.com.vn/xe-tai-do-thanh-iz200-1t9/' target='_blank'><img src='https://ototaimientay.com.vn/wp-content/uploads/2020/06/xe-tai-do-thanh-iz200-1t9-hinh-anh.jpg' width='480px'/></a>");
 			thanh2('#myModal').linhnguyen(thanh2('#myModal').data());
 		}
 }); 
