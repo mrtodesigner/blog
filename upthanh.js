@@ -1,12 +1,6 @@
- var mangurl = ['https://giavang.asia/vang-sjc-gia-vang-hom-nay/','https://truyenkiemhiepaz.com/muc-luc-truyen-kiem-hiep.html','https://duongthanhdtc.com/may-rang-ca-phe-chinh-hang-mars-roaster/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-kin/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-lung/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-mui-bat/','https://ototaimientay.com.vn/xe-tai-do-thanh-iz68/'];
-   var nr=Math.floor((Math.random() * 7) + 1);
-	var url_popup = mangurl[nr-1];
-//var url_popup='https://aeondelight-vietnam.com.vn/vn/dich-vu/dich-vu-ve-sinh';
-//var url_popup='http://sanhungthinhland.com/can-ho-saigon-mia-trung-sonhttps://ototaimientay.com.vn/xe-tai-do-thanh-iz200-1t9//';
-//var url_popup='http://kentonnodequan7.com/';
-      //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
-//url_popup='http://truyenkiemhiepaz.com/';
+var mangurl = ['https://giavang.asia/vang-sjc-gia-vang-hom-nay/','https://truyenkiemhiepaz.com/muc-luc-truyen-kiem-hiep.html','https://duongthanhdtc.com/may-rang-ca-phe-chinh-hang-mars-roaster/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-kin/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-lung/','https://ototaimientay.com.vn/xe-tai-dongben-srm-990kg-thung-mui-bat/','https://ototaimientay.com.vn/xe-tai-do-thanh-iz68/'];
+var nr=Math.floor((Math.random() * 7) + 1);
+var url_popup = mangurl[nr-1];
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
